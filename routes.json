@@ -1,0 +1,4 @@
+{
+  "/institutes/{eiin}/teacher" : "/getTeacher?eiin={eiin}",
+  "/teachers" : "teachers"
+}
